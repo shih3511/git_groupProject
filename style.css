@@ -5,3 +5,8 @@
 h1 {
   font-size: 30px;
 }
+div {
+  width: 100px;
+  height: 100px;
+  background-color: rgb(74, 164, 164);
+}
